@@ -4,9 +4,10 @@
         "name": "react tutorial",
         "category": "programming language",
         "image": "./images/react.png",
-        "total-video": "9 video",
-        "total-ebook": "3 ebook",
+        "video": "9 video",
+        "ebook": "3 ebook",
         "price": "2799",
+        "rating": { "rate": 3.9, "count": 120 },
         "description" : [
             {
                 "title": "A complete package to become a full-stack web developer",
@@ -53,9 +54,10 @@
       "name": "Express js tutorial",
       "category": "programming language",
       "image": "./images/expressjs.png",
-      "total-video": "9 video",
-      "total-ebook": "3 ebook",
+      "video": "9 video",
+      "ebook": "3 ebook",
       "price": "2799",
+      "rating": { "rate": 3.9, "count": 120 },
       "description": [
         {
           "title": "A complete package to become a full-stack web developer",
@@ -102,9 +104,10 @@
       "name": "Angular js tutorial",
       "category": "programming language",
       "image": "./images/AngularJS.png",
-      "total-video": "9 video",
-      "total-ebook": "3 ebook",
+      "video": "9 video",
+      "ebook": "3 ebook",
       "price": "2799",
+      "rating": { "rate": 3.9, "count": 120 },
       "description": [
         {
           "title": "A complete package to become a full-stack web developer",
@@ -151,9 +154,10 @@
       "name": "CSS tutorial",
       "category": "programming language",
       "image": "./images/CSSTutorial.png",
-      "total-video": "9 video",
-      "total-ebook": "3 ebook",
+      "video": "9 video",
+      "ebook": "3 ebook",
       "price": "2799",
+      "rating": { "rate": 3.9, "count": 120 },
       "description": [
         {
           "title": "A complete package to become a full-stack web developer",
@@ -200,9 +204,10 @@
       "name": "Django tutorial",
       "category": "programming language",
       "image": "./images/django.png",
-      "total-video": "9 video",
-      "total-ebook": "3 ebook",
+      "video": "9 video",
+      "ebook": "3 ebook",
       "price": "2799",
+      "rating": { "rate": 3.9, "count": 120 },
       "description": [
         {
           "title": "A complete package to become a full-stack web developer",
@@ -249,9 +254,10 @@
       "name": "HTML tutorial",
       "category": "programming language",
       "image": "./images/html.png",
-      "total-video": "9 video",
-      "total-ebook": "3 ebook",
+      "video": "9 video",
+      "ebook": "3 ebook",
       "price": "2799",
+      "rating": { "rate": 3.9, "count": 120 },
       "description": [
         {
           "title": "A complete package to become a full-stack web developer",
