@@ -3,19 +3,19 @@
         "id": "1",
         "name": "react tutorial",
         "category": "programming language",
-        "image": "./images/react.png",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MnHpbELXlCB1_L15Hik6ZQHaEd%26pid%3DApi&f=1&ipt=76c46182b908c89ac9dfe7ee2bdf7ca9981581092f55fb5aeaef5bc4caa2e705&ipo=images",
         "video": "9 video",
         "ebook": "3 ebook",
         "price": "2799",
-        "rating": { "rate": 3.9, "count": 120 },
-        "description" : [
+        "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+        "description" :
             {
                 "title": "A complete package to become a full-stack web developer",
+                "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "location": "Learning Web.com",
                 "language": "English",
                 "publish-date": "10/2022"
-            }
-        ],
+            },
         "course-outline": [
             {
                 "title": "build website in html & css 2022",
@@ -50,22 +50,22 @@
         ]
     },
     {
-      "id": "1",
+      "id": "2",
       "name": "Express js tutorial",
       "category": "programming language",
-      "image": "./images/expressjs.png",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7RiJviwFAo_3TWYI-AyiowHaEK%26pid%3DApi&f=1&ipt=1f31a3a1eaf3864e404633d8cc93750c788e87f2e66bbd622e2724732a584120&ipo=images",
       "video": "9 video",
       "ebook": "3 ebook",
       "price": "2799",
-      "rating": { "rate": 3.9, "count": 120 },
-      "description": [
+      "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+      "description":
         {
           "title": "A complete package to become a full-stack web developer",
+          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
           "location": "Learning Web.com",
           "language": "English",
           "publish-date": "10/2022"
-        }
-      ],
+        },
       "course-outline": [
         {
           "title": "build website in html & css 2022",
@@ -100,22 +100,22 @@
       ]
     },
     {
-      "id": "1",
+      "id": "3",
       "name": "Angular js tutorial",
       "category": "programming language",
-      "image": "./images/AngularJS.png",
+      "image": "https://1.bp.blogspot.com/-DihzOwa9MZ4/VNHjs7U7uLI/AAAAAAAAImE/qc72ywdNob4/s1600/AngularJS_Tutorial_1.jpg",
       "video": "9 video",
       "ebook": "3 ebook",
       "price": "2799",
-      "rating": { "rate": 3.9, "count": 120 },
-      "description": [
+      "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+      "description":
         {
           "title": "A complete package to become a full-stack web developer",
+          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
           "location": "Learning Web.com",
           "language": "English",
           "publish-date": "10/2022"
-        }
-      ],
+        },
       "course-outline": [
         {
           "title": "build website in html & css 2022",
@@ -150,22 +150,22 @@
       ]
     },
     {
-      "id": "1",
+      "id": "4",
       "name": "CSS tutorial",
       "category": "programming language",
-      "image": "./images/CSSTutorial.png",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png",
       "video": "9 video",
       "ebook": "3 ebook",
       "price": "2799",
-      "rating": { "rate": 3.9, "count": 120 },
-      "description": [
+      "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+      "description":
         {
           "title": "A complete package to become a full-stack web developer",
+          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
           "location": "Learning Web.com",
           "language": "English",
           "publish-date": "10/2022"
-        }
-      ],
+        },
       "course-outline": [
         {
           "title": "build website in html & css 2022",
@@ -200,22 +200,23 @@
       ]
     },
     {
-      "id": "1",
+      "id": "5",
       "name": "Django tutorial",
       "category": "programming language",
-      "image": "./images/django.png",
+      "image": "https://i.ytimg.com/vi/WUhdivr662Y/maxresdefault.jpg",
       "video": "9 video",
       "ebook": "3 ebook",
       "price": "2799",
-      "rating": { "rate": 3.9, "count": 120 },
-      "description": [
+      "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+      "description":
         {
           "title": "A complete package to become a full-stack web developer",
+          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
           "location": "Learning Web.com",
           "language": "English",
           "publish-date": "10/2022"
         }
-      ],
+      ,
       "course-outline": [
         {
           "title": "build website in html & css 2022",
@@ -250,22 +251,23 @@
       ]
     },
     {
-      "id": "1",
+      "id": "6",
       "name": "HTML tutorial",
       "category": "programming language",
-      "image": "./images/html.png",
+      "image": "https://bloglovin-user-images-prod.s3.amazonaws.com/user-image-27364487-1511281076-5a1451b4e85c8",
       "video": "9 video",
       "ebook": "3 ebook",
       "price": "2799",
-      "rating": { "rate": 3.9, "count": 120 },
-      "description": [
+      "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+      "description": 
         {
           "title": "A complete package to become a full-stack web developer",
+          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
           "location": "Learning Web.com",
           "language": "English",
           "publish-date": "10/2022"
         }
-      ],
+      ,
       "course-outline": [
         {
           "title": "build website in html & css 2022",
