@@ -15,11 +15,24 @@ app.get('/courses',(req, res) =>{
   res.send(courses);
 });
 
-app.get('/course/:name', (req, res) =>{
+app.get('/courses/:name', (req, res) =>{
   const categoryName = req.params.name;
   const categoryData = courses.filter(course => course.category == categoryName);
+
   res.send(categoryData);
-})
+});
+
+app.get('/course/:id', (req, res) => {
+  const courseDetails = req.params.id;
+  const details = courses.find(data => data.id == courseDetails);
+  res.send(details);
+});
+
+app.get('/premium/:id', (req, res) => {
+  const courseDetails = req.params.id;
+  const details = courses.find(data => data.id == courseDetails);
+  res.send(details);
+});
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
