@@ -2,17 +2,16 @@
     {
         "id": "1",
         "name": "react tutorial",
-        "category": "programming language",
+        "category": "UI UX Design",
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MnHpbELXlCB1_L15Hik6ZQHaEd%26pid%3DApi&f=1&ipt=76c46182b908c89ac9dfe7ee2bdf7ca9981581092f55fb5aeaef5bc4caa2e705&ipo=images",
-        "video": "9 video",
-        "ebook": "3 ebook",
-        "price": "2799",
-        "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+        "video": "8 videos",
+        "ebook": "3 ebooks",
+        "price": "799",
+        "rating": { "rate": 3.9, "count": 220, "badge": "Excellent" },
         "description" :
             {
-                "title": "A complete package to become a full-stack web developer",
-                "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "location": "Learning Web.com",
+                "title": "A complete package to become a react developer",
+                "descriptions": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js",
                 "language": "English",
                 "publish-date": "10/2022"
             }
@@ -23,14 +22,14 @@
       "name": "Express js tutorial",
       "category": "programming language",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7RiJviwFAo_3TWYI-AyiowHaEK%26pid%3DApi&f=1&ipt=1f31a3a1eaf3864e404633d8cc93750c788e87f2e66bbd622e2724732a584120&ipo=images",
-      "video": "9 video",
-      "ebook": "3 ebook",
-      "price": "2799",
-      "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+      "video": "7 videos",
+      "ebook": "4 ebooks",
+      "price": "999",
+      "rating": { "rate": 3.9, "count": 150, "badge": "Excellent" },
       "description":
         {
-          "title": "A complete package to become a full-stack web developer",
-          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "title": "A complete package to become a Express js developer",
+          "descriptions": "Express is a fast, assertive, essential and moderate web framework of Node.js. You can assume express as a layer built on the top of the Node.js that helps manage a server and routes. It provides a robust set of features to develop web and mobile applications.",
           "location": "Learning Web.com",
           "language": "English",
           "publish-date": "10/2022"
@@ -42,15 +41,14 @@
       "name": "Angular js tutorial",
       "category": "programming language",
       "image": "https://1.bp.blogspot.com/-DihzOwa9MZ4/VNHjs7U7uLI/AAAAAAAAImE/qc72ywdNob4/s1600/AngularJS_Tutorial_1.jpg",
-      "video": "9 video",
-      "ebook": "3 ebook",
-      "price": "2799",
-      "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+      "video": "8 video",
+      "ebook": "5 ebook",
+      "price": "899",
+      "rating": { "rate": 3.9, "count": 320, "badge": "Excellent" },
       "description":
         {
-          "title": "A complete package to become a full-stack web developer",
-          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "location": "Learning Web.com",
+          "title": "A complete package to become a angular js developer",
+          "descriptions": "AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations.",
           "language": "English",
           "publish-date": "10/2022"
         }
@@ -59,17 +57,16 @@
     {
       "id": "4",
       "name": "CSS tutorial",
-      "category": "programming language",
+      "category": "UI UX Design",
       "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png",
-      "video": "9 video",
+      "video": "30 video",
       "ebook": "3 ebook",
-      "price": "2799",
-      "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+      "price": "799",
+      "rating": { "rate": 3.9, "count": 500, "badge": "Excellent" },
       "description":
         {
-          "title": "A complete package to become a full-stack web developer",
-          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "location": "Learning Web.com",
+          "title": "A complete package to become a css developer",
+          "descriptions": "CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc. A document is usually a text file structured using a markup language — HTML is the most common markup language, but you may also come across other markup languages such as SVG or XML.",
           "language": "English",
           "publish-date": "10/2022"
         }
@@ -80,14 +77,14 @@
       "name": "Django tutorial",
       "category": "programming language",
       "image": "https://i.ytimg.com/vi/WUhdivr662Y/maxresdefault.jpg",
-      "video": "9 video",
+      "video": "10 video",
       "ebook": "3 ebook",
-      "price": "2799",
+      "price": "599",
       "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
       "description":
         {
-          "title": "A complete package to become a full-stack web developer",
-          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "title": "A complete package to become a Django developer",
+          "descriptions": "Django is a web development framework that assists in building and maintaining quality web applications. Django helps eliminate repetitive tasks making the development process an easy and time saving experience. This tutorial gives a complete understanding of Django.",
           "location": "Learning Web.com",
           "language": "English",
           "publish-date": "10/2022"
@@ -98,16 +95,16 @@
     {
       "id": "6",
       "name": "HTML tutorial",
-      "category": "programming language",
+      "category": "UI UX Design",
       "image": "https://bloglovin-user-images-prod.s3.amazonaws.com/user-image-27364487-1511281076-5a1451b4e85c8",
-      "video": "9 video",
-      "ebook": "3 ebook",
-      "price": "2799",
-      "rating": { "rate": 3.9, "count": 120, "badge": "Excellent" },
+      "video": "9 videos",
+      "ebook": "3 ebooks",
+      "price": "999",
+      "rating": { "rate": 3.9, "count": 220, "badge": "Excellent" },
       "description": 
         {
-          "title": "A complete package to become a full-stack web developer",
-          "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "title": "A complete package to become a HTML developer",
+          "descriptions": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript",
           "location": "Learning Web.com",
           "language": "English",
           "publish-date": "10/2022"

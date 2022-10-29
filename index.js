@@ -6,6 +6,7 @@ const port = 5000;
 app.use(cors());
 
 const courses = require('./resource/courses.json');
+const { createSearchParams } = require('react-router-dom');
 
 app.get('/', (req, res) => {
   res.send(courses);
@@ -17,9 +18,15 @@ app.get('/courses',(req, res) =>{
 
 app.get('/courses/:name', (req, res) =>{
   const categoryName = req.params.name;
-  const categoryData = courses.filter(course => course.category == categoryName);
-
-  res.send(categoryData);
+  const catName = courses.find(cat => cat.category == categoryName);
+  if(!catName){
+    res.send();
+  }else{
+    const categoryData = courses.filter(course => course.category == categoryName);
+     res.send(categoryData);
+     
+  }
+ 
 });
 
 app.get('/course/:id', (req, res) => {
